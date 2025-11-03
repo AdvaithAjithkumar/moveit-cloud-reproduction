@@ -9,6 +9,6 @@
 > **Cloud offloading reduces planning latency by up to 39%**
 
 ### Screenshots
-- [`rviz_planning.png`](screenshots/rviz_planning.png)
-- [`cloud_log.png`](screenshots/cloud_log.png)
-- [`logistics_log.png`](screenshots/logistics_log.png)
+- [`rviz_planning.png`](screenshots/RViz.png)
+- [`cloud_log.png`](screenshots/cloud_planning_client_launch.png)
+- [`logistics_log.png`](screenshots/extended_logistics_result.png)
